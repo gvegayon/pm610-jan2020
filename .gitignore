@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.log
+*.nav
+*.snm
+*.aux
+*.synctex.gz
+*.toc
+cache
+*.concordance.tex
